@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Me Chamo Leonardo Dreher
+
+🌱 Atualmente estou estudando PHP
 <!--
 **LeonardoDreher/LeonardoDreher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
